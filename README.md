@@ -4,6 +4,8 @@
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
+[Google Slide Version](https://docs.google.com/presentation/d/1l7UBJVavBAUeVRiTY8MQJvRy3wVwR3rD5JTNIqg8duo/edit?usp=sharing)
+
 ---
 
 ## Contents
