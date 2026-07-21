@@ -47,6 +47,7 @@ AI-driven tools for tarot, oracle, and divination readings.
 - [Divine Whisper](https://www.divinewhisper.app) - AI astrology combined with tarot for birth-chart-based personalized guidance.
 - [Bellanova AI](https://bellanova.ai) - Tarot, astrology, numerology, runes, dream interpretation, palm reading, and energy work.
 - [PulseFormAI Divination Suite](https://pulseformai.com) - Tarot, astrology, numerology, runes, I Ching, pendulum, tea leaf, aura reading, dream analysis, and psychic chat.
+- [Luna Tarot](https://www.lunatarotapp.com) - Free multilingual tarot reading PWA supporting 8 languages. Features daily readings, meditation music, moon calendar, and energy forecast. No signup required.
 
 ---
 
