@@ -119,6 +119,7 @@ Dedicated tarot apps and websites.
 
 Platforms for natal charts, horoscopes, and numerological analysis.
 
+- [Suanleb](https://suanlem.asia/) - Browser-based Bazi four-pillar charts, three-card Tarot, and Vedic astrology readings with saved history.
 - [Co–Star](https://www.costarastrology.com) - AI-powered personalized astrology with real-time birth chart analysis.
 - [The Pattern](https://www.thepattern.com) - Deep personality and relationship astrology from birth chart data.
 - [Sanctuary](https://www.sanctuaryworld.co) - Live astrology readings, daily horoscopes, and chat with astrologers.
