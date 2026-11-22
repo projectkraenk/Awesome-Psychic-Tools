@@ -130,6 +130,7 @@ Platforms for natal charts, horoscopes, and numerological analysis.
 - [SoulPath](https://soulpath.app) - Birth charts, tarot, numerology, and angel numbers.
 - [Ceerly](https://ceerly.com) - Tarot, astrology, palmistry, numerology, dream work, and soulmate drawing.
 - [Omniscient Insight](https://omniscientinsight.com) - Tarot interpretation, soul blueprint, numerology, and astrology.
+- [Asteria](https://askasteria.com) - Free birth chart, zodiac compatibility, Moon calendar, numerology and tarot from 29 decks, computed by an astronomical engine; no signup, six languages.
 - [Web Gematria Toolkit](https://chromewebstore.google.com/detail/web-gematria-toolkit) - Chrome extension for calculating gematria values in Latin, Greek, and Hebrew.
 
 ---
