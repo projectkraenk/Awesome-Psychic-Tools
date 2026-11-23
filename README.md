@@ -27,6 +27,7 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 AI-driven tools for tarot, oracle, and divination readings.
 
+- [GuanPalm](https://linkinstant.jp/en) - Browser-based AI palmistry that turns a palm photo into an illustrated reading card.
 - [Tarot Reader AI](https://tarotreaderai.com) - Free AI-powered tarot readings with no signup required.
 - [Tarovent](https://tarovent.com) - Browser-based AI single-card readings; no download needed.
 - [Nostra](https://nostracards.com) - Free AI tarot readings for love, career, and life.
